@@ -1,2 +1,2 @@
 # simple_TODO_manager-PHP
-just a simple PHP manager&lt;
+just a simple todo manager in  PHP&lt;
